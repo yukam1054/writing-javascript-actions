@@ -1,4 +1,4 @@
-const getJoke = require("./joke");
+const getJoke = require("./joke.js");
 const core = require("@actions/core");
 
 async function run() {
