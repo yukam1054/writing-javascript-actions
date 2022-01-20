@@ -4,9 +4,9 @@ const options = {
   method: "GET",
   uri: "https://icanhazdadjoke.com/",
   headers: {
-    Accept: "applicaytion/json",
+    Accept: "application/json",
     "User-Agent":
-      "Writing JavaScript action GitHub Learning Lab course. Visit lab.github.com or to contact us."
+      "Writing JavaScript action GitHub Learning Lab course.  Visit lab.github.com or to contact us."
   },
   json: true
 };
